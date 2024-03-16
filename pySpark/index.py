@@ -39,3 +39,5 @@ total_sales_per_product.write.csv(output_file_path, header=True)
 
 # Stop the Spark session
 spark.stop()
+
+#test comment
