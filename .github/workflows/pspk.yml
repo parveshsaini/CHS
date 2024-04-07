@@ -7,7 +7,7 @@ on:
     paths:
     - 'pySpark/**'
 jobs:
-  pySpark CI:
+  pySpark-CI:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
