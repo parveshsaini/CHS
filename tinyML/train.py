@@ -30,7 +30,7 @@ model.add(Dense(classes, name='y_pred', activation='softmax'))
 opt = Adam(learning_rate=LEARNING_RATE, beta_1=0.9, beta_2=0.999)
 callbacks.append(BatchLoggerCallback(BATCH_SIZE, train_sample_count, epochs=EPOCHS, ensure_determinism=ENSURE_DETERMINISM))
 
-# train the neural network
+
 model.compile(loss='categorical_crossentropy', optimizer=opt, metrics=['accuracy'])
 model.fit(train_dataset, epochs=EPOCHS, validation_data=validation_dataset, verbose=2, callbacks=callbacks)
 
