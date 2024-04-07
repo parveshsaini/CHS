@@ -8,7 +8,7 @@ We've uploaded the material and project code for the following units:
 - Unit 3: PowerBI
 - Unit 4: PySpark
 
-In addition to the project code, we've also written **CI workflows** for each unit.
+In addition to the project code, we've also written **CI workflows**.
 
 ## Team Members [Sem 6  |  CSE 2]
 
