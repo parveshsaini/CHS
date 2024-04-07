@@ -7,7 +7,7 @@ on:
     paths:
     - 'tinyML/**'
 jobs:
-  R-CI:
+  tinyML CI:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
