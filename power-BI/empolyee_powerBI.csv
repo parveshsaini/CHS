@@ -1,0 +1,16 @@
+﻿country,empid,gender,salary,years_of_experience,department,Sum of year_of_joining
+germany,E07,female,45k,7,"",2017
+india,E06,female,33k,8,management,2016
+india,E02,male,22k,12,"",2012
+france,E08,"",61k,13,"",2011
+india,E15,female,49k,13,design,2011
+germany,E14,male,46k,14,design,2010
+india,E11,male,23k,14,marketing,2010
+france,E09,"",54k,15,tech,2009
+us,E10,female,43k,15,design,2009
+germany,E04,"",54k,16,marketing,2008
+france,E13,male,55k,17,tech,2007
+us,E03,female,63k,17,marketing,2007
+india,E01,male,20k,18,tech,2006
+india,E05,male,34k,19,management,2005
+us,E12,male,58k,20,"",2004
